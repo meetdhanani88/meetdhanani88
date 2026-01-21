@@ -24,7 +24,7 @@ I'm a passionate **Senior Software Engineer** from India 🇮🇳 with expertise
 
 ### 🎯 Core Expertise
 - **Frontend**: HTML5, CSS, JavaScript, React, React Native, TypeScript, VueJS, Redux, LESS, Next-JS, Webpack, Babel, Jest
-- **Backend**: Node.js, Express, GraphQL, MongoDB, Redis
+- **Backend**: Node.js, Express, GraphQL, MongoDB, Redis, MySQL
 - **Dev Tools**: Docker, Kubernetes, Sentry, Unix/Linux, Git, Postman, Jira
 - **Open Source**: Active contributor with multiple published packages
 
