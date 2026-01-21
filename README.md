@@ -2,7 +2,7 @@
 
 # Meet Dhanani
 
-### Senior Software Engineer @ Red Hat | Data & AI Team
+### Senior Software Engineer @Red Hat | Data & AI Team
 ### Open Source Contributor 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-dhanani-ab0882212)
